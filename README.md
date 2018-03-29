@@ -48,3 +48,6 @@ public void autonomousPeriodic() {
   recordingTime++;
 }
 ```
+
+## Backup
+The files are directly stored on the rio, so it's a good idea to back them up. Use the batch script tool in the backup directory to fetch or push files from the rio.
