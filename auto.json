@@ -1,0 +1,19 @@
+[
+  [
+    {
+      "time": 0,
+      "buttons": [false, false, false, false, false, false, false, false],
+      "axises": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "time": 2,
+      "buttons": [false, false, false, false, false, false, false, false],
+      "axises": [1, 0, 0, 0, 0, 0]
+    },
+    {
+      "time": 4,
+      "buttons": [false, false, false, false, false, false, false, false],
+      "axises": [0, 0, 0, 0, 0, 0]
+    }
+  ]
+]
