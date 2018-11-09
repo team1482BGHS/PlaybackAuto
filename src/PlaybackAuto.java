@@ -51,8 +51,8 @@ public class PlaybackAuto {
     return localState.sticks[joystick].buttons[button];
   }
   
-  public double getButton(int button) {
-    return this.getAxis(0, button);
+  public boolean getButton(int button) {
+    return this.getButton(0, button);
   }
   
   public double getAxis(int joystick, int axis) {
